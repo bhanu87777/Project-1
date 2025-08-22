@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Social Network Analysis using Graph Neural Network</title>
-</head>
-<body>
   <h1>Social Network Analysis using Graph Neural Network</h1>
   <p>
     This project implements social network analysis using Graph Neural Networks (GNNs). 
@@ -47,5 +39,3 @@
     difficult to obtain with traditional methods. The implementation serves as a foundation 
     for more advanced network analysis applications.
   </p>
-</body>
-</html>
